@@ -29,7 +29,7 @@ Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발�
 문제는 `Main.kt`의 다음 함수를 채우는 방식으로 풀어주시면 됩니다.
 
 ```kotlin
-fun solve(combinedList: List<Int>): List<Int>
+fun solve(combinedList: List<Long>): List<Long>
 ```
 
 #### Input
