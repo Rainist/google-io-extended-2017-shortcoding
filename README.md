@@ -8,6 +8,10 @@
 
 Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발송이 가능하오니 꼭 기입 부탁드립니다! :D
 
+## 제출 기한
+
+행사 당일 자정까지 (~ 7/2 23:59)
+
 ### 문제
 
 [Cody's Jams](https://code.google.com/codejam/contest/8274486/dashboard)
