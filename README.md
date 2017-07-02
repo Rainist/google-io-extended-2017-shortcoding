@@ -4,9 +4,9 @@
 
 ## 참여방법
 
-다음 문제를 **가능한 한 코드를 짧게 Kotlin으로** 풀어서 이 Repository에 [Pull Request](https://github.com/Rainist/google-io-extended-2017-shortcoding/pulls)를 보내주시면 됩니다!
+다음 문제를 __Kotlin__ 으로 최대한 짧게 풀어 이 Repository에 [Pull Request](https://github.com/Rainist/google-io-extended-2017-shortcoding/pulls)를 보내주시면 됩니다! (파일 크기가 작을 수록 짧은 코드로 간주합니다)
 
-Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발송이 가능하오니 꼭 기입해 주시면 감사하겠습니다 :D
+Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발송이 가능하오니 꼭 기입 부탁드립니다! :D
 
 ### 문제
 
@@ -28,10 +28,10 @@ Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발�
 fun solve(combinedList: List<Int>): List<Int>
 ```
 
-#### Sample IO
+#### Sample I/O
 ```kotlin
 listOf(15, 20, 60, 75, 80, 100) to listOf(15, 60, 75),
-listOf(9, 9, 12, 12, 12, 15, 16, 20) to listOf(9, 9, 12, 15),
+listOf(9, 9, 12, 12, 12, 15, 16, 20) to listOf(9, 9, 12, 15)
 ```
 
 ## 상품
@@ -39,3 +39,7 @@ listOf(9, 9, 12, 12, 12, 15, 16, 20) to listOf(9, 9, 12, 15),
 - 1등 : 스타벅스 자바칩 프라푸치노 기프티콘
 - 2등 : 스타벅스 캬라멜 마끼아또 기프티콘
 - 3등 : 스타벅스 아메리카노 기프티콘
+
+## 문의 사항
+
+- Google I/O 2017 Extended Seoul 행사장 내의 레이니스트 부스로 방문해주세요!
