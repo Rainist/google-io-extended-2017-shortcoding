@@ -12,7 +12,7 @@ Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발�
 
 행사 당일 자정까지 (~ 7/2 23:59)
 
-### 문제
+## 문제
 
 [Cody's Jams](https://code.google.com/codejam/contest/8274486/dashboard)
 
@@ -32,7 +32,7 @@ Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발�
 fun solve(combinedList: List<Long>): List<Long>
 ```
 
-#### Input
+### Input
 
 ```kotlin
 listOf(15, 20, 60, 75, 80, 100)
