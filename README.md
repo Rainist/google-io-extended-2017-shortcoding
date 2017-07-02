@@ -1,4 +1,4 @@
-# google-io-extended-2017-shortcoding
+# Rainist Google IO Extended 2017 Shortcoding Contest
 
 팜플렛이 떨어져서 진행하는 이벤트가 절대 아닙니다.
 
@@ -28,10 +28,18 @@ Pull Request 내용에 꼭 이메일 주소를 적어주셔야 기프티콘 발�
 fun solve(combinedList: List<Int>): List<Int>
 ```
 
-#### Sample I/O
+#### Input
+
 ```kotlin
-listOf(15, 20, 60, 75, 80, 100) to listOf(15, 60, 75),
-listOf(9, 9, 12, 12, 12, 15, 16, 20) to listOf(9, 9, 12, 15)
+listOf(15, 20, 60, 75, 80, 100)
+listOf(9, 9, 12, 12, 12, 15, 16, 20)
+```
+
+### Output
+
+```kotlin
+listOf(15, 60, 75)
+listOf(9, 9, 12, 15)
 ```
 
 ## 상품
